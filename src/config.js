@@ -7,7 +7,7 @@
 // 4. Guardá el archivo y subilo a GitHub
 // 5. Vercel re-deploya automáticamente
 
-export const API_FOOTBALL_KEY = 'PEGA_TU_API_KEY_ACA';
+export const API_FOOTBALL_KEY = '6524fa89248077361f13021b71cce50e';
 
 // ============================================================
 // IDs verificados de API-Football (NO modificar)
